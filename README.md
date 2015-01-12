@@ -20,7 +20,7 @@ Or install it yourself as:
 
     require 'ehiverubvy'
     # set up a connection with your API key and optional community
-    e = Ehive.new('65234565654c4d7fb17c96a24312c2a4',  1000)
+    e = Ehive.new('65234598764c4d7fb17c16a26312d2a4',  1000)
     # Get a list of accounts with optional offset
     accounts = e.accounts(offset: 10)
     # Get a single account
